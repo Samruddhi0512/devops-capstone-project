@@ -1,3 +1,29 @@
+# DevOps Capstone Project
+
+## Project Information
+
+**Project:** Customer Accounts Microservice
+
+**Author:** Samruddhi Bate
+
+**GitHub Repository:** https://github.com/Samruddhi0512/devops-capstone-project
+
+## Project Description
+
+This project focuses on developing a Customer Accounts microservice using Python and Flask. It follows the Model-View-Controller (MVC) pattern and provides RESTful APIs for managing customer account information.
+
+## Objectives
+
+- Develop the Customer Accounts microservice
+- Create and manage user stories
+- Build and prioritize the Product Backlog
+- Plan and manage sprints
+- Implement RESTful APIs
+- Follow Test Driven Development (TDD)
+- Maintain 95% code coverage
+- Apply DevOps practices
+
+---
 # DevOps Capstone Template
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
